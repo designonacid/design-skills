@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Proposal"
+  short_description: "Pitch brand concepts with accurate logo construction"
+  default_prompt: "Create a brand proposal deck from the brief, assets, and ACID Method findings."
